@@ -1,0 +1,2 @@
+web: java -jar target/proj-springboot-react-eight-0.0.1-SNAPSHOT.jar
+
